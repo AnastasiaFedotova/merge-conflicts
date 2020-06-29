@@ -1,5 +1,6 @@
 # links
-- url: "https://github.com/github/training-kit"
-  description: Open source repository for GitHub's On Demand training courses
-- url: "https://github.com/jglovier/resume-template/"
-  description: Open source repository for a GitHub Page's powered resume template
+- url: "https://anastasiafedotova.netlify.app/",
+  "https://github.com/AnastasiaFedotova/english-for-kids"
+  description: Application for children
+- url: "https://github.com/AnastasiaFedotova/singolo"
+  description: Test site
